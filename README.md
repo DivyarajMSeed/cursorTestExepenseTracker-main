@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test_expense_tracker_multi
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# cursorTestExepenseTracker-main
+>>>>>>> 18b6dcd6df7611e77844d2496897747a87c051ed
